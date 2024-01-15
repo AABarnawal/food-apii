@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title" : "food",
+        "Description" : "food food food food food food food",
+        "img":"https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price" : "200",
+        "cuisine":"indian"
+    },
+    {
+        "id" : 2,
+        "title" : "food",
+        "Description" : "food food food food food food food",
+        "img":"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price" : "250",
+        "cuisine":"chinese"
+    },
+    {
+        "id" : 3,
+        "title" : "food",
+        "Description" : "food food food food food food food",
+        "img":"https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price" : "200",
+        "cuisine":"itallian"
+    }
+]
